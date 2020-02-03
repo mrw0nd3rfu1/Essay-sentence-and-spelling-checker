@@ -81,7 +81,7 @@ if __name__ == '__main__':
     # for i in range(len(sentence_pred)):
     #     sentence_pred[i] = sentence_pred[i].replace(',',' ')
     # print(sentence_pred)
-    # X_test  = vectorizer.transform(sentences_test)
+    # X_test  = vectorizer.transform(sentence_pred)
 
     
    # classifier = LogisticRegression()
